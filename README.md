@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Run the application using the following command. This will start a local development server and open the CAPM Financial Analysis application in your browser.
 ```bash
-streamlit run Return_CAPM.py
+streamlit run Home.py
 ```
 
 ## Usage
